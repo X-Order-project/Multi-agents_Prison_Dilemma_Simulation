@@ -1,4 +1,4 @@
-# Multi-agents-prison-dilemma-simulation
+# Multi-agents_prison_dilemma_simulation
 Based on Complex Adaptive System(CAS) theory from Holland in the book "Hidden Order",  we try to apply this complexity theory to stimulate multi-agents prison dilemma in different situations
 
 "agent.py" is a class of game agent, which define many features of every agent.
